@@ -1,0 +1,4 @@
+1. npm i create-react-app
+2. npx create-react-app myapp
+3. cd myapp
+4. npm startcd ..

@@ -1,0 +1,41 @@
+.chat-app {
+  background-color: #1a1a2e;
+  color: #fff;
+}
+
+.chat-window {
+  background-color: #1a1a2e;
+  color: #fff;
+}
+
+.message.user {
+  background-color: #7f5af0;
+  color: #fff;
+}
+
+.message.bot {
+  background-color: #4b0082;
+  color: #fff;
+}
+
+.message .sender {
+  color: #fff;
+}
+
+.message .text {
+  color: #fff;
+}
+
+.message-input {
+  background-color: #1a1a2e;
+}
+
+.message-input input {
+  background-color: #fff;
+  color: #1a1a2e;
+}
+
+.message-input button {
+  background-color: #7f5af0;
+  color: #fff;
+}
